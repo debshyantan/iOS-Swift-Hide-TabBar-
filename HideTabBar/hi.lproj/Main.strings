@@ -1,0 +1,15 @@
+
+/* Class = "UITabBarItem"; badgeValue = "2"; ObjectID = "Xf3-rf-wRR"; */
+"Xf3-rf-wRR.badgeValue" = "2";
+
+/* Class = "UITabBarItem"; title = "Parent"; ObjectID = "Xf3-rf-wRR"; */
+"Xf3-rf-wRR.title" = "Parent";
+
+/* Class = "UITabBarItem"; badgeValue = "3"; ObjectID = "cYs-lr-uTM"; */
+"cYs-lr-uTM.badgeValue" = "3";
+
+/* Class = "UITabBarItem"; title = "Student"; ObjectID = "cYs-lr-uTM"; */
+"cYs-lr-uTM.title" = "Student";
+
+/* Class = "UIButton"; normalTitle = "Test"; ObjectID = "hOj-Q7-AGH"; */
+"hOj-Q7-AGH.normalTitle" = "Test";
